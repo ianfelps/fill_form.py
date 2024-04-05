@@ -5,3 +5,5 @@
 <hr>
 
 <p>Os dados da planilha foram gerados no Chat GPT e o site utilizado foi de um <a href="https://github.com/ianfelps/sistema_academia">projeto Django que desenvolvi</a>.</p>
+
+<h3><a href="https://youtu.be/8aS4k1Xbj50?si=QIJw0bpxUmCYsfry">Vídeo de Demonstração</a></h3>
