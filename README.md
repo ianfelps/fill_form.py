@@ -1,9 +1,15 @@
-<h1>Script de automação realizado para preenchimento de dados de um <a href="https://github.com/ianfelps/sistema_academia">Sistema de Academia</a></h1>
+# Script de Automação para Preenchimento de Dados de um [Sistema de Academia](https://github.com/ianfelps/sistema_academia)
 
-<p>O projeto consiste desenvolver um script em <b>Python</b> para automatizar o preenchimento de dados de uma planilha do Excel em um formulário web.</p>
-<p>A tecnologia utilizada foi <b>Python</b>, onde utilizei a biblioteca <b>openpyxl</b> para extrair os dados da minha planilha no Excel (dados.xlsx) e com a biblioteca <b>selenium</b>, o script preenche o formulário e envia automaticamente.</p>
-<hr>
+O projeto consiste em desenvolver um script em **Python** para automatizar o preenchimento de dados de uma planilha do Excel em um formulário web.
 
-<p>Os dados da planilha foram gerados no Chat GPT e o site utilizado foi de um <a href="https://github.com/ianfelps/sistema_academia">projeto Django que desenvolvi</a>.</p>
+## Tecnologias Utilizadas
 
-<h3><a href="https://youtu.be/8aS4k1Xbj50?si=QIJw0bpxUmCYsfry">Vídeo de Demonstração</a></h3>
+- **Python**
+- **openpyxl**: Para extrair os dados da planilha do Excel (`dados.xlsx`).
+- **selenium**: Para preencher o formulário e enviar automaticamente.
+
+Os dados da planilha foram gerados no Chat GPT e o site utilizado foi de um [projeto Django que desenvolvi](https://github.com/ianfelps/sistema_academia).
+
+## Demonstração
+
+[Vídeo de Demonstração](https://youtu.be/8aS4k1Xbj50?si=QIJw0bpxUmCYsfry)
